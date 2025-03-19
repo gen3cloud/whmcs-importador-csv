@@ -46,6 +46,7 @@ O arquivo CSV deve conter os seguintes campos (cabeçalhos):
 
 As credenciais da API estão configuradas no arquivo `config.php`.
 Também precisa ser alteradas nos arquivos: `batch_import.php` e `teste_api.php`
+
 Certifique-se de que estão corretas antes de usar o sistema.
 
 ## Suporte
