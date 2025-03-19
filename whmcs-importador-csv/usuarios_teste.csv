@@ -1,0 +1,6 @@
+firstname,lastname,email,company,cnpj,address1,address2,city,state,postcode,country,phonenumber,password,notes
+Roberto,Silva,roberto.silva@exemplo.com.br,Tecnologia Silva Ltda,45.285.147/0001-94,"Rua das Flores, 123",Sala 201,São Paulo,SP,01234-567,BR,(11) 98765-4321,Senha@123,"Cliente importado via CSV - Plano Premium"
+Ana,Oliveira,ana.oliveira@empresa.com.br,Consultoria Oliveira ME,33.786.421/0001-07,"Av. Paulista, 1000",Andar 15,São Paulo,SP,01310-100,BR,(11) 97654-3210,Teste@456,"Cliente VIP - Contrato anual"
+Carlos,Mendes,carlos.mendes@dominio.com.br,Mendes Soluções Digitais,12.456.789/0001-45,"Rua Augusta, 789",Conjunto 45,São Paulo,SP,01305-000,BR,(11) 99876-5432,Brasil#789,"Cliente novo - Indicação"
+Juliana,Santos,juliana.santos@email.com.br,Santos Comunicação Ltda,98.765.432/0001-21,"Alameda Santos, 458",Bloco B,São Paulo,SP,01419-000,BR,(11) 95678-9012,Ju2025!,"Cliente prioritário - Suporte 24h"
+Marcelo,Ferreira,marcelo.ferreira@contato.com.br,Ferreira Tecnologia SA,76.543.210/0001-98,"Rua Haddock Lobo, 595",Sala 302,São Paulo,SP,01414-001,BR,(11) 93456-7890,Marc@2025,"Cliente regular - Plano básico"

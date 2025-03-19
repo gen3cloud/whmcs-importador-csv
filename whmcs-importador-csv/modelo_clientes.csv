@@ -1,0 +1,4 @@
+firstname,lastname,email,company,cnpj,address1,address2,city,state,postcode,country,phonenumber,password,notes
+João,Silva,joao.silva@example.com,Empresa Exemplo Ltda,61.553.148/0001-07,"Rua Exemplo, 123",Sala 45,São Paulo,SP,01234-567,BR,(11) 98765-4321,Data@75321#,"Cliente importado via CSV"
+Maria,Oliveira,maria.oliveira@example.com,Consultoria ABC,33.041.260/0001-94,"Av. Principal, 500",Andar 2,Rio de Janeiro,RJ,20000-000,BR,(21) 99876-5432,Data@75321#,"Cliente VIP"
+Carlos,Santos,carlos.santos@example.com,Autônomo,45.997.418/0001-53,"Rua das Flores, 78",,Belo Horizonte,MG,30000-000,BR,(31) 97654-3210,Data@75321#,"Novo cliente"
